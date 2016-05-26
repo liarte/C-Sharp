@@ -1,0 +1,7 @@
+C:\Users\carla\Desktop\DAM\Visual Estudio\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\carla\Desktop\DAM\Visual Estudio\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\carla\Desktop\DAM\Visual Estudio\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\carla\Desktop\DAM\Visual Estudio\Matrix\Matrix\bin\Debug\Tao.Sdl.dll
+C:\Users\carla\Desktop\DAM\Visual Estudio\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\carla\Desktop\DAM\Visual Estudio\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\carla\Desktop\DAM\Visual Estudio\Matrix\Matrix\obj\Debug\Matrix.pdb
